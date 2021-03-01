@@ -1,1 +1,1 @@
-# jyp-manifest
+# dot-manifest
